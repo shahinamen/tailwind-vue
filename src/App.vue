@@ -14,7 +14,7 @@ import SelectView from './components/partials/SelectView.vue'
     <CardView />
     <SignUpView />
     <Checkbox />
-    <SelectView />
+    <!-- <SelectView /> -->
   </main>
 </template>
 
