@@ -8,7 +8,7 @@ export default {
 </script>
 <template>
   <section class="min-h-screen flex flex-col justify-center items-center">
-    <div class="grid grid-cols-1 md:grid-cols-4">
+    <div class="grid grid-cols-1 mt-4 mb-4 md:grid-cols-4">
       <Card
         :title="'Unique Visitors'"
         :value="24.7"
