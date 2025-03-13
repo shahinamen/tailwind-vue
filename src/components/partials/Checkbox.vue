@@ -1,5 +1,5 @@
 <template>
-  <section class="h-screen flex flex-col justify-center items-center bg-slate-700">
+  <section class="h-screen flex flex-col justify-center items-center bg-slate-100">
     <div>
       <div class="flex items-center">
         <input type="checkbox" class="custom-checkbox" id="checkbox" v-model="checked" />

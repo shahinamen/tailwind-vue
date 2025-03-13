@@ -5,6 +5,7 @@ import SignUpView from './components/partials/SignUpView.vue'
 import DrawerView from './components/partials/DrawerView.vue'
 import Checkbox from './components/partials/Checkbox.vue'
 import SelectView from './components/partials/SelectView.vue'
+import Users from './components/partials/Users.vue'
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import SelectView from './components/partials/SelectView.vue'
     <SignUpView />
     <Checkbox />
     <!-- <SelectView /> -->
+    <Users />
   </main>
 </template>
 
