@@ -1,8 +1,8 @@
 <template>
-  <section class="h-screen flex flex-col items-center justify-center bg-slate-900">
+  <section class="h-auto flex flex-col items-center justify-center bg-slate-900">
     <div>
-      <h1 class="text-3xl font-bold text-white text-center mb-8">Users</h1>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <h1 class="text-3xl font-bold text-white text-center m-8">Users</h1>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
         <div
           v-for="user in users.slice(0, 6)"
           :key="user.id"

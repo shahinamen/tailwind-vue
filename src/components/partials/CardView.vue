@@ -7,7 +7,7 @@ export default {
 }
 </script>
 <template>
-  <section class="min-h-screen flex flex-col justify-center items-center">
+  <section class="flex flex-col justify-center items-center h-auto">
     <div class="grid grid-cols-1 mt-4 mb-4 md:grid-cols-4">
       <Card
         :title="'Unique Visitors'"

@@ -13,8 +13,8 @@ import Users from './components/partials/Users.vue'
     <!-- <DrawerView /> -->
     <HomeView />
     <CardView />
-    <SignUpView />
-    <Checkbox />
+    <!-- <SignUpView /> -->
+    <!-- <Checkbox /> -->
     <!-- <SelectView /> -->
     <Users />
   </main>
